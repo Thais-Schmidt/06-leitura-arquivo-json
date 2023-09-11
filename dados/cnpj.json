@@ -1,0 +1,35 @@
+{
+    "cnpj": "133.847.27/0001.61",
+    "receitaFederal": {        
+        "razaoSocial": "NETRIN CONSULTORIA E SERVICOS EM TECNOLOGIA DA INFORMACAO LTDA.", 
+        "nomeFantasia": "********", 
+        "naturezaJuridica": "206-2 – Sociedade Empresária Limitada", 
+        "logradouro": "AV THEODOMIRO PORTO DA FONSECA",
+        "numero": "3101",
+        "complemento": "EDIF 08 SALA E",
+        "bairro": "DUQUE DE CAXIAS",
+        "municipio": "SAO LEOPOLDO",
+        "cep": "93.020-080",
+        "uf": "RS",
+        "email": "contabilidade@meta.com.br",
+        "telefone": "(51) 2101-1371/ (51) 2101-1300",
+        "efr": "*****",
+        "situacaoCadastral": "ATIVA",
+        "dataSituacaocadastral": "17/03/2011",
+        "dataInicioAtividade": "17/03/2011",
+        "atividadeEconomica": "62.02-3-00 – Desenvolvimento e licenciamento de programas de computador customizáveis",
+        "atividadesEconomicasSecundarias": [
+            "62.03-1-00 – Desenvolvimento e licenciamento de programas de computador não-customizáveis",
+            "62.01-5-01 – Desenvolvimento de programas de computador sob encomenda",
+            "62.04-0-00 – Consultoria em tecnologia da informação",
+            "62.09-1-00 – Suporte técnico, manutenção e outros serviços em tecnologia da informação"
+        ],
+        "tipoCNPJ": "MATRIZ",
+        "situacaoEspecial": "********",
+        "dataSituacaoEspecial": "********",
+        "motivoSituacao": "",
+        "porte": "DEMAIS",
+        "capitalSocial": "R$447.755,00 (Quatrocentos e quarenta e sete mil e setecentos e cinquenta e cinco reais)",
+        "urlComprovante": "https://…"
+    }
+}

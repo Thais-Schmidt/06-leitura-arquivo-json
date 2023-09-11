@@ -1,0 +1,77 @@
+*{margin: 0%; padding: 0%; box-sizing: border-box;}
+
+body{
+    font-family:'Courier New', Courier, monospace;
+}
+
+#identificacao{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+label{
+    font-weight: bold;
+}
+
+input{
+    /* background-color: none; */
+    font-family:monospace;
+}
+
+#informacoes_empresa{
+    margin: 30px;
+}
+
+#loc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+}
+
+#bloco1{
+    margin-right: 40%;
+    display: flex;
+    flex-direction: row;
+}
+
+#bloco2{
+    margin-right: 40%;
+    display: flex;
+    flex-direction: row;
+}
+
+#bloco3{
+    margin-right: 40%;
+    display: flex;
+    flex-direction: row;
+}
+
+#cadastral{
+    margin: 30px;
+}
+
+label{
+    margin-right: 20px;
+}
+
+.largura{
+    width: 270px;
+}
+
+.larg{
+    width: 190px;
+}
+
+.largu{
+    width: 654px;
+}
+
+#atividadesEconomicasSecundarias{
+    width: 1097px;
+    height: 62px;
+    text-align: center;
+}
+
+
